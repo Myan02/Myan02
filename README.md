@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michael
+- 👋 Hi, I’m Michael (He/Him)
 - 👀 I’m interested in creating and collabing :)
 - 🌱 I’m currently learning data structures through C++
 - 💞️ I’m looking to collaborate on literally anything that helps me learn
