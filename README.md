@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael (He/Him)
-- 👀 I’m interested in creating and collabing :)
+- 👀 I’m interested in creating and collaborating :)
 - 🌱 I’m currently learning data structures through C++
 - 💞️ I’m looking to collaborate on literally anything that helps me learn
 - 📫 How to reach me ... baburyanmichael@gmail.com (just email me)
