@@ -10,7 +10,9 @@ Familiar with the following languages and frameworks:
 I love to create apps, websites, and games. You can find one of the games I made in high school here: https://drtuna.itch.io/vape-nation-g4c
 
 How to reach me ... 
+
 ✨ email: baburyanmichael@gmail.com
+
 ✨ linkedin: https://www.linkedin.com/in/michael-baburyan-9a3602245/
 
 <!---
