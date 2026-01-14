@@ -13,7 +13,7 @@ How to reach me ...
 
 ✨ email: baburyanmichael@gmail.com
 
-✨ linkedin: https://www.linkedin.com/in/michael-baburyan-9a3602245/
+✨ linkedin: www.linkedin.com/in/michael-baburyan
 
 <!---
 Myan02/Myan02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
