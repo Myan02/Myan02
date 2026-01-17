@@ -10,7 +10,7 @@ This is what I know *really* well:
 - ReSTfull API Design
 <br>
 
-This is what I know well enough to use it:
+This is what I know well enough to use:
 - TypeScript
 - React
 - Bash
